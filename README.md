@@ -33,13 +33,11 @@ To set up the project environment:
 
 - Clone this repository to your local machine.
 - Ensure you have Python and R installed on your system.
-- Install necessary Python libraries:
-
-    pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
-
-Install necessary R packages:
+- Install necessary Python libraries
+- Install necessary R packages
 
     install.packages(c("tidyverse", "skimr", "ggplot2", "reshape2"))
+    pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
 
 ## **Usage**
 
