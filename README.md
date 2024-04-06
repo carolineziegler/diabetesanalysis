@@ -36,8 +36,9 @@ To set up the project environment:
 - Install necessary Python libraries
 - Install necessary R packages
 
-    install.packages(c("tidyverse", "skimr", "ggplot2", "reshape2"))
-    pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
+      install.packages(c("tidyverse", "skimr", "ggplot2", "reshape2"))
+
+      pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
 
 ## **Usage**
 
